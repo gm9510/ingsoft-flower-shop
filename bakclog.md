@@ -8,8 +8,7 @@
 - Permitir devoluciones, reembolsos y calificación de productos.
 - Proveer dashboard para reservas y reportes de inventario.
 - Imprimir etiquetas para entregas y limitar reservas diarias.
-hola 
-
+- hola eduard y hola gustavo
 
 ---
 
