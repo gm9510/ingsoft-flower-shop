@@ -1,0 +1,25 @@
+Prioridad | Código | Actor | Historia | Esfuerzo | Tipo
+Alta      | HU1   | Cliente | Como cliente, quiero comprar arreglos florales en línea con entrega programada | 8 | Funcional
+Alta      | HU2   | Cliente | Como cliente, quiero pagar en línea con múltiples métodos de pago | 8 | Funcional
+Alta      | HU3   | Cliente | Como cliente, quiero registrar una cuenta para agilizar mis compras | 5 | Funcional
+Alta      | HU4   | Cliente | Como cliente, quiero recibir una factura para verificar el cobro | 5 | Funcional
+Alta      | HU5   | Cliente | Como cliente, quiero poder calificar el producto | 3 | Funcional
+Alta      | HU6   | Cliente | Como cliente, quiero solicitar un reembolso en caso de error | 5 | Funcional
+Alta      | HU7   | Cliente | Como cliente, quiero recibir notificaciones sobre el estado de mi entrega | 5 | Funcional
+Media     | HU8   | Admin   | Como administrador, quiero gestionar el inventario de flores y arreglos | 8 | Técnica
+Media     | HU9   | Admin   | Como administrador, quiero generar reportes de inventario para cualquier rango de fechas | 5 | Técnica
+Media     | HU10  | Admin   | Como administrador, quiero actualizar precios para promociones o cambios de costo | 5 | Técnica
+Media     | HU11  | Admin   | Como administrador, quiero tener un dashboard para manejo de reservas | 8 | Técnica
+Media     | HU12  | Admin   | Como administrador, quiero poner límites a las reservas diarias (máx. 10,000 flores/día) | 5 | Técnica
+Media     | HU13  | Admin   | Como administrador, quiero imprimir etiquetas para entregas | 3 | Técnica
+Media     | HU14  | Admin   | Como administrador, quiero gestionar devoluciones con trazabilidad | 5 | Técnica
+Baja      | HU15  | Admin   | Como administrador, quiero categorizar productos por tipo de arreglo y motivo | 3 | Técnica
+Baja      | HU16  | Admin   | Como administrador, quiero gestionar entregas tercerizadas dentro de la ciudad | 5 | Técnica
+Baja      | HU17  | Admin   | Como administrador, quiero inventario de clientes para marketing | 3 | Técnica
+Baja      | HU18  | Admin   | Como administrador, quiero reportes contables básicos | 5 | Técnica
+Baja      | HU19  | Cliente | Como cliente, quiero una interfaz visualmente atractiva para ver arreglos | 5 | Funcional
+Media     | HU20  | Repartidor | Como repartidor, quiero ver el listado de entregas del día | 5 | Funcional
+Media     | HU21    | Admin   | Como administrador de inventario deseo registrar todos los ingresos de insumos para llevar control de la disponibilidad de insumos | 5 | Técnica
+Media     | HU22    | Admin   | Como administrador de inventario deseo saber cuántas flores se han reservado en pedidos para evitar sobrevender flores | 5 | Técnica
+Media     | HU23    | Admin   | Como administrador de inventario deseo poder generar un reporte de ingresos y egresos de materiales | 5 | Técnica
+Alta      | HU24    | Cliente | Como cliente quiero un carrito de compras para agregar los ítems que quiero adquirir | 5 | Funcional

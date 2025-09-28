@@ -1,0 +1,5 @@
+site_name: Flower Shop Project
+nav:
+  - Planning: planning_release.md
+  - Prompts: prompts.md
+  - Pricing: pricing.md
